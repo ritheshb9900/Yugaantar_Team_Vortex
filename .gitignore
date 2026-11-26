@@ -5,3 +5,14 @@ __pycache__/
 *.pyc
 *.nc
 .venv/
+
+# Local Python package installers and archives
+*.whl
+*.tar.gz
+
+# Local desktop installer
+opencode-desktop-win-x64.exe
+
+# Local extraction cache & temporary data
+.cache/
+data/
